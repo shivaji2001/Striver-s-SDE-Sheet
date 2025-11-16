@@ -4,6 +4,7 @@ public:
         int k=m+n-1;
         int i=m-1;
         int j=n-1;
+        //have to rev
         while(i>=0 and j>=0)
         {
             if(nums1[i]>=nums2[j])
