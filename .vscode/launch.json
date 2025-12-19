@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp.LAPTOP-DFS89Q0N/OneDrive/Desktop/Striver's SDE Sheet/Striver-s-SDE-Sheet",
-      "program": "c:/Users/hp.LAPTOP-DFS89Q0N/OneDrive/Desktop/Striver's SDE Sheet/Striver-s-SDE-Sheet/build/Debug/outDebug",
+      "cwd": "c:/Striver's SDE Sheet/Striver-s-SDE-Sheet/Arrays Part 3",
+      "program": "c:/Striver's SDE Sheet/Striver-s-SDE-Sheet/Arrays Part 3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
