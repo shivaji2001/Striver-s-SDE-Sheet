@@ -110,9 +110,3 @@ Please consider giving a ⭐ to this repository — it motivates me to keep impr
 * 💻 GitHub: https://github.com/shivaji2001
 
 ---
-
-## 🔑 Keywords (for SEO)
-
-Striver SDE Sheet Solutions, DSA Sheet Solutions, Data Structures and Algorithms Practice, FAANG Interview Preparation, Coding Interview Questions, LeetCode Solutions, DSA in C++, Placement Preparation
-
----
