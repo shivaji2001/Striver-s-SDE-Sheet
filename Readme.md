@@ -106,8 +106,8 @@ Please consider giving a ⭐ to this repository — it motivates me to keep impr
 
 ## 📬 Connect with Me
 
-* 💼 LinkedIn: YOUR_LINKEDIN
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 💼 LinkedIn:https://www.linkedin.com/in/shivaji99/
+* 💻 GitHub: https://github.com/shivaji2001
 
 ---
 
